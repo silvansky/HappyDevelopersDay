@@ -15,7 +15,7 @@ int main(int argc, const char * argv[])
 {
 	time_t today = time(NULL);
 	struct tm *todayInfo = localtime(&today);
-	if (todayInfo->tm_yday != 0xff)
+	if (todayInfo->tm_yday != 0xFF)
 	{
 		std::cout << "Today is a usual day..." << std::endl;
 		return 1;
@@ -42,6 +42,7 @@ int main(int argc, const char * argv[])
 			me.sayHelloTo(developer);
 			me.giveABeerToDeveloper(developer);
 		}
+		delete list[i];
 	}
 	return 0;
 }
