@@ -36,15 +36,15 @@
 		BC4AFF5517E3386200CCF4AD /* Developer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Developer.h; sourceTree = "<group>"; };
 		BC4AFF5617E3386200CCF4AD /* Internet.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Internet.cpp; sourceTree = "<group>"; };
 		BC4AFF5717E3386200CCF4AD /* Internet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Internet.h; sourceTree = "<group>"; };
-		BC4AFF5817E3386200CCF4AD /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		BC4AFF5917E3386200CCF4AD /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		BC4AFF5A17E3386200CCF4AD /* Person.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Person.cpp; sourceTree = "<group>"; };
 		BC4AFF5B17E3386200CCF4AD /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
-		BC4AFF5C17E3386200CCF4AD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		BC4AFF5D17E3386200CCF4AD /* SpecialPerson.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SpecialPerson.cpp; sourceTree = "<group>"; };
 		BC4AFF5E17E3386200CCF4AD /* SpecialPerson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpecialPerson.h; sourceTree = "<group>"; };
 		BC4AFF5F17E3386200CCF4AD /* SpecialPersonsList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SpecialPersonsList.cpp; sourceTree = "<group>"; };
 		BC4AFF6017E3386200CCF4AD /* SpecialPersonsList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpecialPersonsList.h; sourceTree = "<group>"; };
+		BC4AFF6717E3397500CCF4AD /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
+		BC4AFF6817E3397500CCF4AD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,8 +89,8 @@
 				BC4AFF6017E3386200CCF4AD /* SpecialPersonsList.h */,
 				BC4AFF5F17E3386200CCF4AD /* SpecialPersonsList.cpp */,
 				BC4AFF4D17E3380300CCF4AD /* HappyDevelopersDay.1 */,
-				BC4AFF5C17E3386200CCF4AD /* README.md */,
-				BC4AFF5817E3386200CCF4AD /* LICENSE */,
+				BC4AFF6717E3397500CCF4AD /* LICENSE */,
+				BC4AFF6817E3397500CCF4AD /* README.md */,
 			);
 			path = HappyDevelopersDay;
 			sourceTree = "<group>";
